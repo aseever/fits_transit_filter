@@ -1,0 +1,6502 @@
+[
+  {
+    "visits": [
+      "icii17c4q",
+      "icii18cbq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii17c4q\\icii17c4q_drz.fits",
+        "visit_id": "icii17c4q",
+        "obs_time": "2014-06-16 00:00:00",
+        "target": "KBO1-R8C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii18cbq\\icii18cbq_drz.fits",
+        "visit_id": "icii18cbq",
+        "obs_time": "2014-06-16 00:00:00",
+        "target": "KBO1-R8C2",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C2",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii19iyq",
+      "icii20jfq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii19iyq\\icii19iyq_drz.fits",
+        "visit_id": "icii19iyq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii20jfq\\icii20jfq_drz.fits",
+        "visit_id": "icii20jfq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C3",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii19iyq",
+      "icii20jmq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii19iyq\\icii19iyq_drz.fits",
+        "visit_id": "icii19iyq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii20jmq\\icii20jmq_drz.fits",
+        "visit_id": "icii20jmq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C3",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii20jfq",
+      "icii20jmq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii20jfq\\icii20jfq_drz.fits",
+        "visit_id": "icii20jfq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii20jmq\\icii20jmq_drz.fits",
+        "visit_id": "icii20jmq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C3",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii21h9q",
+      "icii22iiq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii21h9q\\icii21h9q_drz.fits",
+        "visit_id": "icii21h9q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii22iiq\\icii22iiq_drz.fits",
+        "visit_id": "icii22iiq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C4",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii23i7q",
+      "icii24ioq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii23i7q\\icii23i7q_drz.fits",
+        "visit_id": "icii23i7q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii24ioq\\icii24ioq_drz.fits",
+        "visit_id": "icii24ioq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii23i7q",
+      "icii24ivq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii23i7q\\icii23i7q_drz.fits",
+        "visit_id": "icii23i7q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii24ivq\\icii24ivq_drz.fits",
+        "visit_id": "icii24ivq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii24ioq",
+      "icii24ivq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii24ioq\\icii24ioq_drz.fits",
+        "visit_id": "icii24ioq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii24ivq\\icii24ivq_drz.fits",
+        "visit_id": "icii24ivq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii25jbq",
+      "icii26jrq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii25jbq\\icii25jbq_drz.fits",
+        "visit_id": "icii25jbq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii26jrq\\icii26jrq_drz.fits",
+        "visit_id": "icii26jrq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C6",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii27moq",
+      "icii28nkq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii27moq\\icii27moq_drz.fits",
+        "visit_id": "icii27moq",
+        "obs_time": "2014-06-18 00:00:00",
+        "target": "KBO1-R8C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii28nkq\\icii28nkq_drz.fits",
+        "visit_id": "icii28nkq",
+        "obs_time": "2014-06-18 00:00:00",
+        "target": "KBO1-R8C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii27moq",
+      "icii28nrq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii27moq\\icii27moq_drz.fits",
+        "visit_id": "icii27moq",
+        "obs_time": "2014-06-18 00:00:00",
+        "target": "KBO1-R8C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii28nrq\\icii28nrq_drz.fits",
+        "visit_id": "icii28nrq",
+        "obs_time": "2014-06-18 00:00:00",
+        "target": "KBO1-R8C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii28nkq",
+      "icii28nrq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii28nkq\\icii28nkq_drz.fits",
+        "visit_id": "icii28nkq",
+        "obs_time": "2014-06-18 00:00:00",
+        "target": "KBO1-R8C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii28nrq\\icii28nrq_drz.fits",
+        "visit_id": "icii28nrq",
+        "obs_time": "2014-06-18 00:00:00",
+        "target": "KBO1-R8C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii29s3q",
+      "icii30sjq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii29s3q\\icii29s3q_drz.fits",
+        "visit_id": "icii29s3q",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii30sjq\\icii30sjq_drz.fits",
+        "visit_id": "icii30sjq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C2",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C2",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii31s8q",
+      "icii32spq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii31s8q\\icii31s8q_drz.fits",
+        "visit_id": "icii31s8q",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii32spq\\icii32spq_drz.fits",
+        "visit_id": "icii32spq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C3",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii31s8q",
+      "icii32swq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii31s8q\\icii31s8q_drz.fits",
+        "visit_id": "icii31s8q",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii32swq\\icii32swq_drz.fits",
+        "visit_id": "icii32swq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C3",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii32spq",
+      "icii32swq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii32spq\\icii32spq_drz.fits",
+        "visit_id": "icii32spq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii32swq\\icii32swq_drz.fits",
+        "visit_id": "icii32swq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C3",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii35xdq",
+      "icii36xuq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii35xdq\\icii35xdq_drz.fits",
+        "visit_id": "icii35xdq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii36xuq\\icii36xuq_drz.fits",
+        "visit_id": "icii36xuq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii35xdq",
+      "icii36y1q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii35xdq\\icii35xdq_drz.fits",
+        "visit_id": "icii35xdq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii36y1q\\icii36y1q_drz.fits",
+        "visit_id": "icii36y1q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii36xuq",
+      "icii36y1q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii36xuq\\icii36xuq_drz.fits",
+        "visit_id": "icii36xuq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii36y1q\\icii36y1q_drz.fits",
+        "visit_id": "icii36y1q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii37xqq",
+      "icii38y6q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii37xqq\\icii37xqq_drz.fits",
+        "visit_id": "icii37xqq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii38y6q\\icii38y6q_drz.fits",
+        "visit_id": "icii38y6q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C6",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii33acq",
+      "icii34asq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii33acq\\icii33acq_drz.fits",
+        "visit_id": "icii33acq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii34asq\\icii34asq_drz.fits",
+        "visit_id": "icii34asq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C4",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii39ahq",
+      "icii40ayq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii39ahq\\icii39ahq_drz.fits",
+        "visit_id": "icii39ahq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii40ayq\\icii40ayq_drz.fits",
+        "visit_id": "icii40ayq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii39ahq",
+      "icii40b5q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii39ahq\\icii39ahq_drz.fits",
+        "visit_id": "icii39ahq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii40b5q\\icii40b5q_drz.fits",
+        "visit_id": "icii40b5q",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii40ayq",
+      "icii40b5q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii40ayq\\icii40ayq_drz.fits",
+        "visit_id": "icii40ayq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii40b5q\\icii40b5q_drz.fits",
+        "visit_id": "icii40b5q",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii01drq",
+      "icii02e7q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii01drq\\icii01drq_drz.fits",
+        "visit_id": "icii01drq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii02e7q\\icii02e7q_drz.fits",
+        "visit_id": "icii02e7q",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C3",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii03dwq",
+      "icii04edq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii03dwq\\icii03dwq_drz.fits",
+        "visit_id": "icii03dwq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii04edq\\icii04edq_drz.fits",
+        "visit_id": "icii04edq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C4",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii03dwq",
+      "icii04ekq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii03dwq\\icii03dwq_drz.fits",
+        "visit_id": "icii03dwq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii04ekq\\icii04ekq_drz.fits",
+        "visit_id": "icii04ekq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C4",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii04edq",
+      "icii04ekq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii04edq\\icii04edq_drz.fits",
+        "visit_id": "icii04edq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii04ekq\\icii04ekq_drz.fits",
+        "visit_id": "icii04ekq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C4",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii05ifq",
+      "icii06ivq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii05ifq\\icii05ifq_drz.fits",
+        "visit_id": "icii05ifq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii06ivq\\icii06ivq_drz.fits",
+        "visit_id": "icii06ivq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C3",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii07ikq",
+      "icii08j1q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii07ikq\\icii07ikq_drz.fits",
+        "visit_id": "icii07ikq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii08j1q\\icii08j1q_drz.fits",
+        "visit_id": "icii08j1q",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C4",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii07ikq",
+      "icii08j8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii07ikq\\icii07ikq_drz.fits",
+        "visit_id": "icii07ikq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii08j8q\\icii08j8q_drz.fits",
+        "visit_id": "icii08j8q",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C4",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii08j1q",
+      "icii08j8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii08j1q\\icii08j1q_drz.fits",
+        "visit_id": "icii08j1q",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii08j8q\\icii08j8q_drz.fits",
+        "visit_id": "icii08j8q",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C4",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii09myq",
+      "icii10neq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii09myq\\icii09myq_drz.fits",
+        "visit_id": "icii09myq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii10neq\\icii10neq_drz.fits",
+        "visit_id": "icii10neq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii13n7q",
+      "icii14nnq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii13n7q\\icii13n7q_drz.fits",
+        "visit_id": "icii13n7q",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii14nnq\\icii14nnq_drz.fits",
+        "visit_id": "icii14nnq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii11r8q",
+      "icii12rpq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii11r8q\\icii11r8q_drz.fits",
+        "visit_id": "icii11r8q",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii12rpq\\icii12rpq_drz.fits",
+        "visit_id": "icii12rpq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C6",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii11r8q",
+      "icii12rwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii11r8q\\icii11r8q_drz.fits",
+        "visit_id": "icii11r8q",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii12rwq\\icii12rwq_drz.fits",
+        "visit_id": "icii12rwq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C6",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii12rpq",
+      "icii12rwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii12rpq\\icii12rpq_drz.fits",
+        "visit_id": "icii12rpq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii12rwq\\icii12rwq_drz.fits",
+        "visit_id": "icii12rwq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C6",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii15rhq",
+      "icii16ryq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii15rhq\\icii15rhq_drz.fits",
+        "visit_id": "icii15rhq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii16ryq\\icii16ryq_drz.fits",
+        "visit_id": "icii16ryq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii15rhq",
+      "icii16s5q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii15rhq\\icii15rhq_drz.fits",
+        "visit_id": "icii15rhq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii16s5q\\icii16s5q_drz.fits",
+        "visit_id": "icii16s5q",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii16ryq",
+      "icii16s5q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii16ryq\\icii16ryq_drz.fits",
+        "visit_id": "icii16ryq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii16s5q\\icii16s5q_drz.fits",
+        "visit_id": "icii16s5q",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii41ceq",
+      "icii42d3q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii41ceq\\icii41ceq_drz.fits",
+        "visit_id": "icii41ceq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii42d3q\\icii42d3q_drz.fits",
+        "visit_id": "icii42d3q",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R0C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii43cqq",
+      "icii44d9q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii43cqq\\icii43cqq_drz.fits",
+        "visit_id": "icii43cqq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii44d9q\\icii44d9q_drz.fits",
+        "visit_id": "icii44d9q",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R0C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii43cqq",
+      "icii44dgq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii43cqq\\icii43cqq_drz.fits",
+        "visit_id": "icii43cqq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii44dgq\\icii44dgq_drz.fits",
+        "visit_id": "icii44dgq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R0C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii44d9q",
+      "icii44dgq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii44d9q\\icii44d9q_drz.fits",
+        "visit_id": "icii44d9q",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii44dgq\\icii44dgq_drz.fits",
+        "visit_id": "icii44dgq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R0C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii45i1q",
+      "icii46ieq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii45i1q\\icii45i1q_drz.fits",
+        "visit_id": "icii45i1q",
+        "obs_time": "2014-07-08 00:00:00",
+        "target": "KBO1-R0C9",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii46ieq\\icii46ieq_drz.fits",
+        "visit_id": "icii46ieq",
+        "obs_time": "2014-07-08 00:00:00",
+        "target": "KBO1-R0C9",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R0C9",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii59roq",
+      "icii60s5q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii59roq\\icii59roq_drz.fits",
+        "visit_id": "icii59roq",
+        "obs_time": "2014-07-10 00:00:00",
+        "target": "KBO1-R2C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii60s5q\\icii60s5q_drz.fits",
+        "visit_id": "icii60s5q",
+        "obs_time": "2014-07-10 00:00:00",
+        "target": "KBO1-R2C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R2C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii63rxq",
+      "icii64seq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii63rxq\\icii63rxq_drz.fits",
+        "visit_id": "icii63rxq",
+        "obs_time": "2014-07-10 00:00:00",
+        "target": "KBO1-R2C9",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii64seq\\icii64seq_drz.fits",
+        "visit_id": "icii64seq",
+        "obs_time": "2014-07-10 00:00:00",
+        "target": "KBO1-R2C9",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R2C9",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii56f2q",
+      "icii56f9q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii56f2q\\icii56f2q_drz.fits",
+        "visit_id": "icii56f2q",
+        "obs_time": "2014-07-12 00:00:00",
+        "target": "KBO1-R2C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii56f9q\\icii56f9q_drz.fits",
+        "visit_id": "icii56f9q",
+        "obs_time": "2014-07-12 00:00:00",
+        "target": "KBO1-R2C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R2C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii75aqq",
+      "icii76bmq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii75aqq\\icii75aqq_drz.fits",
+        "visit_id": "icii75aqq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii76bmq\\icii76bmq_drz.fits",
+        "visit_id": "icii76bmq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C4",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii77bcq",
+      "icii78ckq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii77bcq\\icii77bcq_drz.fits",
+        "visit_id": "icii77bcq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii78ckq\\icii78ckq_drz.fits",
+        "visit_id": "icii78ckq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii80e6q",
+      "icii80edq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii80e6q\\icii80e6q_drz.fits",
+        "visit_id": "icii80e6q",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii80edq\\icii80edq_drz.fits",
+        "visit_id": "icii80edq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C6",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii81h5q",
+      "icii82hlq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii81h5q\\icii81h5q_drz.fits",
+        "visit_id": "icii81h5q",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii82hlq\\icii82hlq_drz.fits",
+        "visit_id": "icii82hlq",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii84hrq",
+      "icii84hys"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii84hrq\\icii84hrq_drz.fits",
+        "visit_id": "icii84hrq",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii84hys\\icii84hys_drz.fits",
+        "visit_id": "icii84hys",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii65q5q",
+      "icii66qlq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii65q5q\\icii65q5q_drz.fits",
+        "visit_id": "icii65q5q",
+        "obs_time": "2014-07-16 00:00:00",
+        "target": "KBO1-R3C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii66qlq\\icii66qlq_drz.fits",
+        "visit_id": "icii66qlq",
+        "obs_time": "2014-07-16 00:00:00",
+        "target": "KBO1-R3C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R3C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii71suq",
+      "icii72tbq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii71suq\\icii71suq_drz.fits",
+        "visit_id": "icii71suq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii72tbq\\icii72tbq_drz.fits",
+        "visit_id": "icii72tbq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R3C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii71suq",
+      "icii72tiq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii71suq\\icii71suq_drz.fits",
+        "visit_id": "icii71suq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii72tiq\\icii72tiq_drz.fits",
+        "visit_id": "icii72tiq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R3C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii72tbq",
+      "icii72tiq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii72tbq\\icii72tbq_drz.fits",
+        "visit_id": "icii72tbq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii72tiq\\icii72tiq_drz.fits",
+        "visit_id": "icii72tiq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R3C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii47xtq",
+      "icii48yaq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii47xtq\\icii47xtq_drz.fits",
+        "visit_id": "icii47xtq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii48yaq\\icii48yaq_drz.fits",
+        "visit_id": "icii48yaq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C6",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii47xtq",
+      "icii48yhq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii47xtq\\icii47xtq_drz.fits",
+        "visit_id": "icii47xtq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii48yhq\\icii48yhq_drz.fits",
+        "visit_id": "icii48yhq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C6",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii48yaq",
+      "icii48yhq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii48yaq\\icii48yaq_drz.fits",
+        "visit_id": "icii48yaq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii48yhq\\icii48yhq_drz.fits",
+        "visit_id": "icii48yhq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C6",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii53xlq",
+      "icii54y4q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii53xlq\\icii53xlq_drz.fits",
+        "visit_id": "icii53xlq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C9",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii54y4q\\icii54y4q_drz.fits",
+        "visit_id": "icii54y4q",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C9",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C9",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii49c3q",
+      "icii50cjq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii49c3q\\icii49c3q_drz.fits",
+        "visit_id": "icii49c3q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii50cjq\\icii50cjq_drz.fits",
+        "visit_id": "icii50cjq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii51c8q",
+      "icii52cpq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii51c8q\\icii51c8q_drz.fits",
+        "visit_id": "icii51c8q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii52cpq\\icii52cpq_drz.fits",
+        "visit_id": "icii52cpq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii51c8q",
+      "icii52cwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii51c8q\\icii51c8q_drz.fits",
+        "visit_id": "icii51c8q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii52cwq\\icii52cwq_drz.fits",
+        "visit_id": "icii52cwq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii52cpq",
+      "icii52cwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii52cpq\\icii52cpq_drz.fits",
+        "visit_id": "icii52cpq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii52cwq\\icii52cwq_drz.fits",
+        "visit_id": "icii52cwq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii85i8q",
+      "icii86ioq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii85i8q\\icii85i8q_drz.fits",
+        "visit_id": "icii85i8q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii86ioq\\icii86ioq_drz.fits",
+        "visit_id": "icii86ioq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C4",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii87idq",
+      "icii88j1q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii87idq\\icii87idq_drz.fits",
+        "visit_id": "icii87idq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii88j1q\\icii88j1q_drz.fits",
+        "visit_id": "icii88j1q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii89j8q",
+      "icii90jwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii89j8q\\icii89j8q_drz.fits",
+        "visit_id": "icii89j8q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii90jwq\\icii90jwq_drz.fits",
+        "visit_id": "icii90jwq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C6",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii91jeq",
+      "icii92k2q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii91jeq\\icii91jeq_drz.fits",
+        "visit_id": "icii91jeq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii92k2q\\icii92k2q_drz.fits",
+        "visit_id": "icii92k2q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii91jeq",
+      "icii92k9q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii91jeq\\icii91jeq_drz.fits",
+        "visit_id": "icii91jeq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii92k9q\\icii92k9q_drz.fits",
+        "visit_id": "icii92k9q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii92k2q",
+      "icii92k9q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii92k2q\\icii92k2q_drz.fits",
+        "visit_id": "icii92k2q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii92k9q\\icii92k9q_drz.fits",
+        "visit_id": "icii92k9q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C7",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii93dlq",
+      "icii94e3q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii93dlq\\icii93dlq_drz.fits",
+        "visit_id": "icii93dlq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R5C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii94e3q\\icii94e3q_drz.fits",
+        "visit_id": "icii94e3q",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R5C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C8",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii95eaq",
+      "icii96f0q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii95eaq\\icii95eaq_drz.fits",
+        "visit_id": "icii95eaq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii96f0q\\icii96f0q_drz.fits",
+        "visit_id": "icii96f0q",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii95eaq",
+      "icii96f7q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii95eaq\\icii95eaq_drz.fits",
+        "visit_id": "icii95eaq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii96f7q\\icii96f7q_drz.fits",
+        "visit_id": "icii96f7q",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii96f0q",
+      "icii96f7q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii96f0q\\icii96f0q_drz.fits",
+        "visit_id": "icii96f0q",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii96f7q\\icii96f7q_drz.fits",
+        "visit_id": "icii96f7q",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C5",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii97enq",
+      "icii98ffq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii97enq\\icii97enq_drz.fits",
+        "visit_id": "icii97enq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii98ffq\\icii98ffq_drz.fits",
+        "visit_id": "icii98ffq",
+        "obs_time": "2014-07-22 00:00:00",
+        "target": "KBO1-R6C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R6C6",
+    "pair_type": "exact_target"
+  },
+  {
+    "visits": [
+      "icii17c4q",
+      "icii19iyq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii17c4q\\icii17c4q_drz.fits",
+        "visit_id": "icii17c4q",
+        "obs_time": "2014-06-16 00:00:00",
+        "target": "KBO1-R8C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii19iyq\\icii19iyq_drz.fits",
+        "visit_id": "icii19iyq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R8C2 & KBO1-R8C3",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii17c4q",
+      "icii20jfq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii17c4q\\icii17c4q_drz.fits",
+        "visit_id": "icii17c4q",
+        "obs_time": "2014-06-16 00:00:00",
+        "target": "KBO1-R8C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii20jfq\\icii20jfq_drz.fits",
+        "visit_id": "icii20jfq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R8C2 & KBO1-R8C3",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii17c4q",
+      "icii20jmq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii17c4q\\icii17c4q_drz.fits",
+        "visit_id": "icii17c4q",
+        "obs_time": "2014-06-16 00:00:00",
+        "target": "KBO1-R8C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii20jmq\\icii20jmq_drz.fits",
+        "visit_id": "icii20jmq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R8C2 & KBO1-R8C3",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii18cbq",
+      "icii19iyq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii18cbq\\icii18cbq_drz.fits",
+        "visit_id": "icii18cbq",
+        "obs_time": "2014-06-16 00:00:00",
+        "target": "KBO1-R8C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii19iyq\\icii19iyq_drz.fits",
+        "visit_id": "icii19iyq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R8C2 & KBO1-R8C3",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii18cbq",
+      "icii20jfq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii18cbq\\icii18cbq_drz.fits",
+        "visit_id": "icii18cbq",
+        "obs_time": "2014-06-16 00:00:00",
+        "target": "KBO1-R8C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii20jfq\\icii20jfq_drz.fits",
+        "visit_id": "icii20jfq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R8C2 & KBO1-R8C3",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii18cbq",
+      "icii20jmq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii18cbq\\icii18cbq_drz.fits",
+        "visit_id": "icii18cbq",
+        "obs_time": "2014-06-16 00:00:00",
+        "target": "KBO1-R8C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii20jmq\\icii20jmq_drz.fits",
+        "visit_id": "icii20jmq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R8C2 & KBO1-R8C3",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii19iyq",
+      "icii21h9q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii19iyq\\icii19iyq_drz.fits",
+        "visit_id": "icii19iyq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii21h9q\\icii21h9q_drz.fits",
+        "visit_id": "icii21h9q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C3 & KBO1-R8C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii19iyq",
+      "icii22iiq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii19iyq\\icii19iyq_drz.fits",
+        "visit_id": "icii19iyq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii22iiq\\icii22iiq_drz.fits",
+        "visit_id": "icii22iiq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C3 & KBO1-R8C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii20jfq",
+      "icii21h9q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii20jfq\\icii20jfq_drz.fits",
+        "visit_id": "icii20jfq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii21h9q\\icii21h9q_drz.fits",
+        "visit_id": "icii21h9q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C3 & KBO1-R8C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii20jfq",
+      "icii22iiq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii20jfq\\icii20jfq_drz.fits",
+        "visit_id": "icii20jfq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii22iiq\\icii22iiq_drz.fits",
+        "visit_id": "icii22iiq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C3 & KBO1-R8C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii20jmq",
+      "icii21h9q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii20jmq\\icii20jmq_drz.fits",
+        "visit_id": "icii20jmq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii21h9q\\icii21h9q_drz.fits",
+        "visit_id": "icii21h9q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C3 & KBO1-R8C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii20jmq",
+      "icii22iiq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii20jmq\\icii20jmq_drz.fits",
+        "visit_id": "icii20jmq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii22iiq\\icii22iiq_drz.fits",
+        "visit_id": "icii22iiq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C3 & KBO1-R8C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii21h9q",
+      "icii23i7q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii21h9q\\icii21h9q_drz.fits",
+        "visit_id": "icii21h9q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii23i7q\\icii23i7q_drz.fits",
+        "visit_id": "icii23i7q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C4 & KBO1-R8C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii21h9q",
+      "icii24ioq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii21h9q\\icii21h9q_drz.fits",
+        "visit_id": "icii21h9q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii24ioq\\icii24ioq_drz.fits",
+        "visit_id": "icii24ioq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C4 & KBO1-R8C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii21h9q",
+      "icii24ivq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii21h9q\\icii21h9q_drz.fits",
+        "visit_id": "icii21h9q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii24ivq\\icii24ivq_drz.fits",
+        "visit_id": "icii24ivq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C4 & KBO1-R8C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii22iiq",
+      "icii23i7q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii22iiq\\icii22iiq_drz.fits",
+        "visit_id": "icii22iiq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii23i7q\\icii23i7q_drz.fits",
+        "visit_id": "icii23i7q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C4 & KBO1-R8C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii22iiq",
+      "icii24ioq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii22iiq\\icii22iiq_drz.fits",
+        "visit_id": "icii22iiq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii24ioq\\icii24ioq_drz.fits",
+        "visit_id": "icii24ioq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C4 & KBO1-R8C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii22iiq",
+      "icii24ivq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii22iiq\\icii22iiq_drz.fits",
+        "visit_id": "icii22iiq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii24ivq\\icii24ivq_drz.fits",
+        "visit_id": "icii24ivq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C4 & KBO1-R8C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii23i7q",
+      "icii25jbq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii23i7q\\icii23i7q_drz.fits",
+        "visit_id": "icii23i7q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii25jbq\\icii25jbq_drz.fits",
+        "visit_id": "icii25jbq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C5 & KBO1-R8C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii23i7q",
+      "icii26jrq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii23i7q\\icii23i7q_drz.fits",
+        "visit_id": "icii23i7q",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii26jrq\\icii26jrq_drz.fits",
+        "visit_id": "icii26jrq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C5 & KBO1-R8C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii24ioq",
+      "icii25jbq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii24ioq\\icii24ioq_drz.fits",
+        "visit_id": "icii24ioq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii25jbq\\icii25jbq_drz.fits",
+        "visit_id": "icii25jbq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C5 & KBO1-R8C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii24ioq",
+      "icii26jrq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii24ioq\\icii24ioq_drz.fits",
+        "visit_id": "icii24ioq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii26jrq\\icii26jrq_drz.fits",
+        "visit_id": "icii26jrq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C5 & KBO1-R8C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii24ivq",
+      "icii25jbq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii24ivq\\icii24ivq_drz.fits",
+        "visit_id": "icii24ivq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii25jbq\\icii25jbq_drz.fits",
+        "visit_id": "icii25jbq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C5 & KBO1-R8C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii24ivq",
+      "icii26jrq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii24ivq\\icii24ivq_drz.fits",
+        "visit_id": "icii24ivq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii26jrq\\icii26jrq_drz.fits",
+        "visit_id": "icii26jrq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R8C5 & KBO1-R8C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii25jbq",
+      "icii27moq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii25jbq\\icii25jbq_drz.fits",
+        "visit_id": "icii25jbq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii27moq\\icii27moq_drz.fits",
+        "visit_id": "icii27moq",
+        "obs_time": "2014-06-18 00:00:00",
+        "target": "KBO1-R8C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R8C6 & KBO1-R8C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii25jbq",
+      "icii28nkq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii25jbq\\icii25jbq_drz.fits",
+        "visit_id": "icii25jbq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii28nkq\\icii28nkq_drz.fits",
+        "visit_id": "icii28nkq",
+        "obs_time": "2014-06-18 00:00:00",
+        "target": "KBO1-R8C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R8C6 & KBO1-R8C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii25jbq",
+      "icii28nrq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii25jbq\\icii25jbq_drz.fits",
+        "visit_id": "icii25jbq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii28nrq\\icii28nrq_drz.fits",
+        "visit_id": "icii28nrq",
+        "obs_time": "2014-06-18 00:00:00",
+        "target": "KBO1-R8C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R8C6 & KBO1-R8C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii26jrq",
+      "icii27moq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii26jrq\\icii26jrq_drz.fits",
+        "visit_id": "icii26jrq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii27moq\\icii27moq_drz.fits",
+        "visit_id": "icii27moq",
+        "obs_time": "2014-06-18 00:00:00",
+        "target": "KBO1-R8C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R8C6 & KBO1-R8C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii26jrq",
+      "icii28nkq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii26jrq\\icii26jrq_drz.fits",
+        "visit_id": "icii26jrq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii28nkq\\icii28nkq_drz.fits",
+        "visit_id": "icii28nkq",
+        "obs_time": "2014-06-18 00:00:00",
+        "target": "KBO1-R8C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R8C6 & KBO1-R8C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii26jrq",
+      "icii28nrq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii26jrq\\icii26jrq_drz.fits",
+        "visit_id": "icii26jrq",
+        "obs_time": "2014-06-17 00:00:00",
+        "target": "KBO1-R8C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii28nrq\\icii28nrq_drz.fits",
+        "visit_id": "icii28nrq",
+        "obs_time": "2014-06-18 00:00:00",
+        "target": "KBO1-R8C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R8C6 & KBO1-R8C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii29s3q",
+      "icii31s8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii29s3q\\icii29s3q_drz.fits",
+        "visit_id": "icii29s3q",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii31s8q\\icii31s8q_drz.fits",
+        "visit_id": "icii31s8q",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C2 & KBO1-R9C3",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii29s3q",
+      "icii32spq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii29s3q\\icii29s3q_drz.fits",
+        "visit_id": "icii29s3q",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii32spq\\icii32spq_drz.fits",
+        "visit_id": "icii32spq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C2 & KBO1-R9C3",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii29s3q",
+      "icii32swq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii29s3q\\icii29s3q_drz.fits",
+        "visit_id": "icii29s3q",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii32swq\\icii32swq_drz.fits",
+        "visit_id": "icii32swq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C2 & KBO1-R9C3",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii30sjq",
+      "icii31s8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii30sjq\\icii30sjq_drz.fits",
+        "visit_id": "icii30sjq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii31s8q\\icii31s8q_drz.fits",
+        "visit_id": "icii31s8q",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C2 & KBO1-R9C3",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii30sjq",
+      "icii32spq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii30sjq\\icii30sjq_drz.fits",
+        "visit_id": "icii30sjq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii32spq\\icii32spq_drz.fits",
+        "visit_id": "icii32spq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C2 & KBO1-R9C3",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii30sjq",
+      "icii32swq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii30sjq\\icii30sjq_drz.fits",
+        "visit_id": "icii30sjq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C2",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii32swq\\icii32swq_drz.fits",
+        "visit_id": "icii32swq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C2 & KBO1-R9C3",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii31s8q",
+      "icii33acq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii31s8q\\icii31s8q_drz.fits",
+        "visit_id": "icii31s8q",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii33acq\\icii33acq_drz.fits",
+        "visit_id": "icii33acq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 48.0,
+    "target": "KBO1-R9C3 & KBO1-R9C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii31s8q",
+      "icii34asq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii31s8q\\icii31s8q_drz.fits",
+        "visit_id": "icii31s8q",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii34asq\\icii34asq_drz.fits",
+        "visit_id": "icii34asq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 48.0,
+    "target": "KBO1-R9C3 & KBO1-R9C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii32spq",
+      "icii33acq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii32spq\\icii32spq_drz.fits",
+        "visit_id": "icii32spq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii33acq\\icii33acq_drz.fits",
+        "visit_id": "icii33acq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 48.0,
+    "target": "KBO1-R9C3 & KBO1-R9C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii32spq",
+      "icii34asq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii32spq\\icii32spq_drz.fits",
+        "visit_id": "icii32spq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii34asq\\icii34asq_drz.fits",
+        "visit_id": "icii34asq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 48.0,
+    "target": "KBO1-R9C3 & KBO1-R9C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii32swq",
+      "icii33acq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii32swq\\icii32swq_drz.fits",
+        "visit_id": "icii32swq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii33acq\\icii33acq_drz.fits",
+        "visit_id": "icii33acq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 48.0,
+    "target": "KBO1-R9C3 & KBO1-R9C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii32swq",
+      "icii34asq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii32swq\\icii32swq_drz.fits",
+        "visit_id": "icii32swq",
+        "obs_time": "2014-06-19 00:00:00",
+        "target": "KBO1-R9C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii34asq\\icii34asq_drz.fits",
+        "visit_id": "icii34asq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 48.0,
+    "target": "KBO1-R9C3 & KBO1-R9C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii35xdq",
+      "icii37xqq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii35xdq\\icii35xdq_drz.fits",
+        "visit_id": "icii35xdq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii37xqq\\icii37xqq_drz.fits",
+        "visit_id": "icii37xqq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C5 & KBO1-R9C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii35xdq",
+      "icii38y6q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii35xdq\\icii35xdq_drz.fits",
+        "visit_id": "icii35xdq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii38y6q\\icii38y6q_drz.fits",
+        "visit_id": "icii38y6q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C5 & KBO1-R9C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii35xdq",
+      "icii33acq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii35xdq\\icii35xdq_drz.fits",
+        "visit_id": "icii35xdq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii33acq\\icii33acq_drz.fits",
+        "visit_id": "icii33acq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R9C5 & KBO1-R9C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii35xdq",
+      "icii34asq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii35xdq\\icii35xdq_drz.fits",
+        "visit_id": "icii35xdq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii34asq\\icii34asq_drz.fits",
+        "visit_id": "icii34asq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R9C5 & KBO1-R9C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii36xuq",
+      "icii37xqq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii36xuq\\icii36xuq_drz.fits",
+        "visit_id": "icii36xuq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii37xqq\\icii37xqq_drz.fits",
+        "visit_id": "icii37xqq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C5 & KBO1-R9C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii36xuq",
+      "icii38y6q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii36xuq\\icii36xuq_drz.fits",
+        "visit_id": "icii36xuq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii38y6q\\icii38y6q_drz.fits",
+        "visit_id": "icii38y6q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C5 & KBO1-R9C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii36xuq",
+      "icii33acq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii36xuq\\icii36xuq_drz.fits",
+        "visit_id": "icii36xuq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii33acq\\icii33acq_drz.fits",
+        "visit_id": "icii33acq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R9C5 & KBO1-R9C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii36xuq",
+      "icii34asq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii36xuq\\icii36xuq_drz.fits",
+        "visit_id": "icii36xuq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii34asq\\icii34asq_drz.fits",
+        "visit_id": "icii34asq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R9C5 & KBO1-R9C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii36y1q",
+      "icii37xqq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii36y1q\\icii36y1q_drz.fits",
+        "visit_id": "icii36y1q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii37xqq\\icii37xqq_drz.fits",
+        "visit_id": "icii37xqq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C5 & KBO1-R9C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii36y1q",
+      "icii38y6q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii36y1q\\icii36y1q_drz.fits",
+        "visit_id": "icii36y1q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii38y6q\\icii38y6q_drz.fits",
+        "visit_id": "icii38y6q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R9C5 & KBO1-R9C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii36y1q",
+      "icii33acq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii36y1q\\icii36y1q_drz.fits",
+        "visit_id": "icii36y1q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii33acq\\icii33acq_drz.fits",
+        "visit_id": "icii33acq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R9C5 & KBO1-R9C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii36y1q",
+      "icii34asq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii36y1q\\icii36y1q_drz.fits",
+        "visit_id": "icii36y1q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii34asq\\icii34asq_drz.fits",
+        "visit_id": "icii34asq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R9C5 & KBO1-R9C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii37xqq",
+      "icii39ahq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii37xqq\\icii37xqq_drz.fits",
+        "visit_id": "icii37xqq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii39ahq\\icii39ahq_drz.fits",
+        "visit_id": "icii39ahq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R9C6 & KBO1-R9C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii37xqq",
+      "icii40ayq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii37xqq\\icii37xqq_drz.fits",
+        "visit_id": "icii37xqq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii40ayq\\icii40ayq_drz.fits",
+        "visit_id": "icii40ayq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R9C6 & KBO1-R9C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii37xqq",
+      "icii40b5q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii37xqq\\icii37xqq_drz.fits",
+        "visit_id": "icii37xqq",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii40b5q\\icii40b5q_drz.fits",
+        "visit_id": "icii40b5q",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R9C6 & KBO1-R9C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii38y6q",
+      "icii39ahq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii38y6q\\icii38y6q_drz.fits",
+        "visit_id": "icii38y6q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii39ahq\\icii39ahq_drz.fits",
+        "visit_id": "icii39ahq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R9C6 & KBO1-R9C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii38y6q",
+      "icii40ayq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii38y6q\\icii38y6q_drz.fits",
+        "visit_id": "icii38y6q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii40ayq\\icii40ayq_drz.fits",
+        "visit_id": "icii40ayq",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R9C6 & KBO1-R9C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii38y6q",
+      "icii40b5q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii38y6q\\icii38y6q_drz.fits",
+        "visit_id": "icii38y6q",
+        "obs_time": "2014-06-20 00:00:00",
+        "target": "KBO1-R9C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii40b5q\\icii40b5q_drz.fits",
+        "visit_id": "icii40b5q",
+        "obs_time": "2014-06-21 00:00:00",
+        "target": "KBO1-R9C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R9C6 & KBO1-R9C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii01drq",
+      "icii03dwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii01drq\\icii01drq_drz.fits",
+        "visit_id": "icii01drq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii03dwq\\icii03dwq_drz.fits",
+        "visit_id": "icii03dwq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C3 & KBO1-R6C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii01drq",
+      "icii04edq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii01drq\\icii01drq_drz.fits",
+        "visit_id": "icii01drq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii04edq\\icii04edq_drz.fits",
+        "visit_id": "icii04edq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C3 & KBO1-R6C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii01drq",
+      "icii04ekq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii01drq\\icii01drq_drz.fits",
+        "visit_id": "icii01drq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii04ekq\\icii04ekq_drz.fits",
+        "visit_id": "icii04ekq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C3 & KBO1-R6C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii02e7q",
+      "icii03dwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii02e7q\\icii02e7q_drz.fits",
+        "visit_id": "icii02e7q",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii03dwq\\icii03dwq_drz.fits",
+        "visit_id": "icii03dwq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C3 & KBO1-R6C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii02e7q",
+      "icii04edq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii02e7q\\icii02e7q_drz.fits",
+        "visit_id": "icii02e7q",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii04edq\\icii04edq_drz.fits",
+        "visit_id": "icii04edq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C3 & KBO1-R6C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii02e7q",
+      "icii04ekq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii02e7q\\icii02e7q_drz.fits",
+        "visit_id": "icii02e7q",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii04ekq\\icii04ekq_drz.fits",
+        "visit_id": "icii04ekq",
+        "obs_time": "2014-06-22 00:00:00",
+        "target": "KBO1-R6C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C3 & KBO1-R6C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii95eaq",
+      "icii97enq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii95eaq\\icii95eaq_drz.fits",
+        "visit_id": "icii95eaq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii97enq\\icii97enq_drz.fits",
+        "visit_id": "icii97enq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C5 & KBO1-R6C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii95eaq",
+      "icii98ffq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii95eaq\\icii95eaq_drz.fits",
+        "visit_id": "icii95eaq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii98ffq\\icii98ffq_drz.fits",
+        "visit_id": "icii98ffq",
+        "obs_time": "2014-07-22 00:00:00",
+        "target": "KBO1-R6C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R6C5 & KBO1-R6C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii96f0q",
+      "icii97enq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii96f0q\\icii96f0q_drz.fits",
+        "visit_id": "icii96f0q",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii97enq\\icii97enq_drz.fits",
+        "visit_id": "icii97enq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C5 & KBO1-R6C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii96f0q",
+      "icii98ffq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii96f0q\\icii96f0q_drz.fits",
+        "visit_id": "icii96f0q",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii98ffq\\icii98ffq_drz.fits",
+        "visit_id": "icii98ffq",
+        "obs_time": "2014-07-22 00:00:00",
+        "target": "KBO1-R6C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R6C5 & KBO1-R6C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii96f7q",
+      "icii97enq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii96f7q\\icii96f7q_drz.fits",
+        "visit_id": "icii96f7q",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii97enq\\icii97enq_drz.fits",
+        "visit_id": "icii97enq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C5 & KBO1-R6C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii96f7q",
+      "icii98ffq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii96f7q\\icii96f7q_drz.fits",
+        "visit_id": "icii96f7q",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii98ffq\\icii98ffq_drz.fits",
+        "visit_id": "icii98ffq",
+        "obs_time": "2014-07-22 00:00:00",
+        "target": "KBO1-R6C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R6C5 & KBO1-R6C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii97enq",
+      "icii99esq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii97enq\\icii97enq_drz.fits",
+        "visit_id": "icii97enq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii99esq\\icii99esq_drz.fits",
+        "visit_id": "icii99esq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R6C6 & KBO1-R6C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii99esq",
+      "icii98ffq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii99esq\\icii99esq_drz.fits",
+        "visit_id": "icii99esq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R6C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii98ffq\\icii98ffq_drz.fits",
+        "visit_id": "icii98ffq",
+        "obs_time": "2014-07-22 00:00:00",
+        "target": "KBO1-R6C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R6C7 & KBO1-R6C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii05ifq",
+      "icii07ikq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii05ifq\\icii05ifq_drz.fits",
+        "visit_id": "icii05ifq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii07ikq\\icii07ikq_drz.fits",
+        "visit_id": "icii07ikq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C3 & KBO1-R7C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii05ifq",
+      "icii08j1q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii05ifq\\icii05ifq_drz.fits",
+        "visit_id": "icii05ifq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii08j1q\\icii08j1q_drz.fits",
+        "visit_id": "icii08j1q",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C3 & KBO1-R7C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii05ifq",
+      "icii08j8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii05ifq\\icii05ifq_drz.fits",
+        "visit_id": "icii05ifq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii08j8q\\icii08j8q_drz.fits",
+        "visit_id": "icii08j8q",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C3 & KBO1-R7C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii06ivq",
+      "icii07ikq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii06ivq\\icii06ivq_drz.fits",
+        "visit_id": "icii06ivq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii07ikq\\icii07ikq_drz.fits",
+        "visit_id": "icii07ikq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C3 & KBO1-R7C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii06ivq",
+      "icii08j1q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii06ivq\\icii06ivq_drz.fits",
+        "visit_id": "icii06ivq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii08j1q\\icii08j1q_drz.fits",
+        "visit_id": "icii08j1q",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C3 & KBO1-R7C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii06ivq",
+      "icii08j8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii06ivq\\icii06ivq_drz.fits",
+        "visit_id": "icii06ivq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C3",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii08j8q\\icii08j8q_drz.fits",
+        "visit_id": "icii08j8q",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R7C3 & KBO1-R7C4",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii07ikq",
+      "icii09myq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii07ikq\\icii07ikq_drz.fits",
+        "visit_id": "icii07ikq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii09myq\\icii09myq_drz.fits",
+        "visit_id": "icii09myq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C4 & KBO1-R7C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii07ikq",
+      "icii10neq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii07ikq\\icii07ikq_drz.fits",
+        "visit_id": "icii07ikq",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii10neq\\icii10neq_drz.fits",
+        "visit_id": "icii10neq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C4 & KBO1-R7C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii08j1q",
+      "icii09myq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii08j1q\\icii08j1q_drz.fits",
+        "visit_id": "icii08j1q",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii09myq\\icii09myq_drz.fits",
+        "visit_id": "icii09myq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C4 & KBO1-R7C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii08j1q",
+      "icii10neq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii08j1q\\icii08j1q_drz.fits",
+        "visit_id": "icii08j1q",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii10neq\\icii10neq_drz.fits",
+        "visit_id": "icii10neq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C4 & KBO1-R7C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii08j8q",
+      "icii09myq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii08j8q\\icii08j8q_drz.fits",
+        "visit_id": "icii08j8q",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii09myq\\icii09myq_drz.fits",
+        "visit_id": "icii09myq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C4 & KBO1-R7C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii08j8q",
+      "icii10neq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii08j8q\\icii08j8q_drz.fits",
+        "visit_id": "icii08j8q",
+        "obs_time": "2014-06-24 00:00:00",
+        "target": "KBO1-R7C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii10neq\\icii10neq_drz.fits",
+        "visit_id": "icii10neq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C4 & KBO1-R7C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii09myq",
+      "icii11r8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii09myq\\icii09myq_drz.fits",
+        "visit_id": "icii09myq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii11r8q\\icii11r8q_drz.fits",
+        "visit_id": "icii11r8q",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C5 & KBO1-R7C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii09myq",
+      "icii12rpq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii09myq\\icii09myq_drz.fits",
+        "visit_id": "icii09myq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii12rpq\\icii12rpq_drz.fits",
+        "visit_id": "icii12rpq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C5 & KBO1-R7C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii09myq",
+      "icii12rwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii09myq\\icii09myq_drz.fits",
+        "visit_id": "icii09myq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii12rwq\\icii12rwq_drz.fits",
+        "visit_id": "icii12rwq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C5 & KBO1-R7C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii10neq",
+      "icii11r8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii10neq\\icii10neq_drz.fits",
+        "visit_id": "icii10neq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii11r8q\\icii11r8q_drz.fits",
+        "visit_id": "icii11r8q",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C5 & KBO1-R7C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii10neq",
+      "icii12rpq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii10neq\\icii10neq_drz.fits",
+        "visit_id": "icii10neq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii12rpq\\icii12rpq_drz.fits",
+        "visit_id": "icii12rpq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C5 & KBO1-R7C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii10neq",
+      "icii12rwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii10neq\\icii10neq_drz.fits",
+        "visit_id": "icii10neq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii12rwq\\icii12rwq_drz.fits",
+        "visit_id": "icii12rwq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C5 & KBO1-R7C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii13n7q",
+      "icii11r8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii13n7q\\icii13n7q_drz.fits",
+        "visit_id": "icii13n7q",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii11r8q\\icii11r8q_drz.fits",
+        "visit_id": "icii11r8q",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C7 & KBO1-R7C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii13n7q",
+      "icii12rpq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii13n7q\\icii13n7q_drz.fits",
+        "visit_id": "icii13n7q",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii12rpq\\icii12rpq_drz.fits",
+        "visit_id": "icii12rpq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C7 & KBO1-R7C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii13n7q",
+      "icii12rwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii13n7q\\icii13n7q_drz.fits",
+        "visit_id": "icii13n7q",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii12rwq\\icii12rwq_drz.fits",
+        "visit_id": "icii12rwq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C7 & KBO1-R7C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii13n7q",
+      "icii15rhq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii13n7q\\icii13n7q_drz.fits",
+        "visit_id": "icii13n7q",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii15rhq\\icii15rhq_drz.fits",
+        "visit_id": "icii15rhq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C7 & KBO1-R7C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii13n7q",
+      "icii16ryq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii13n7q\\icii13n7q_drz.fits",
+        "visit_id": "icii13n7q",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii16ryq\\icii16ryq_drz.fits",
+        "visit_id": "icii16ryq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C7 & KBO1-R7C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii13n7q",
+      "icii16s5q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii13n7q\\icii13n7q_drz.fits",
+        "visit_id": "icii13n7q",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii16s5q\\icii16s5q_drz.fits",
+        "visit_id": "icii16s5q",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C7 & KBO1-R7C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii14nnq",
+      "icii11r8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii14nnq\\icii14nnq_drz.fits",
+        "visit_id": "icii14nnq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii11r8q\\icii11r8q_drz.fits",
+        "visit_id": "icii11r8q",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C7 & KBO1-R7C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii14nnq",
+      "icii12rpq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii14nnq\\icii14nnq_drz.fits",
+        "visit_id": "icii14nnq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii12rpq\\icii12rpq_drz.fits",
+        "visit_id": "icii12rpq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C7 & KBO1-R7C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii14nnq",
+      "icii12rwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii14nnq\\icii14nnq_drz.fits",
+        "visit_id": "icii14nnq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii12rwq\\icii12rwq_drz.fits",
+        "visit_id": "icii12rwq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C7 & KBO1-R7C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii14nnq",
+      "icii15rhq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii14nnq\\icii14nnq_drz.fits",
+        "visit_id": "icii14nnq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii15rhq\\icii15rhq_drz.fits",
+        "visit_id": "icii15rhq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C7 & KBO1-R7C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii14nnq",
+      "icii16ryq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii14nnq\\icii14nnq_drz.fits",
+        "visit_id": "icii14nnq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii16ryq\\icii16ryq_drz.fits",
+        "visit_id": "icii16ryq",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C7 & KBO1-R7C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii14nnq",
+      "icii16s5q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii14nnq\\icii14nnq_drz.fits",
+        "visit_id": "icii14nnq",
+        "obs_time": "2014-06-25 00:00:00",
+        "target": "KBO1-R7C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii16s5q\\icii16s5q_drz.fits",
+        "visit_id": "icii16s5q",
+        "obs_time": "2014-06-26 00:00:00",
+        "target": "KBO1-R7C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R7C7 & KBO1-R7C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii41ceq",
+      "icii43cqq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii41ceq\\icii41ceq_drz.fits",
+        "visit_id": "icii41ceq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii43cqq\\icii43cqq_drz.fits",
+        "visit_id": "icii43cqq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R0C7 & KBO1-R0C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii41ceq",
+      "icii44d9q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii41ceq\\icii41ceq_drz.fits",
+        "visit_id": "icii41ceq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii44d9q\\icii44d9q_drz.fits",
+        "visit_id": "icii44d9q",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R0C7 & KBO1-R0C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii41ceq",
+      "icii44dgq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii41ceq\\icii41ceq_drz.fits",
+        "visit_id": "icii41ceq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii44dgq\\icii44dgq_drz.fits",
+        "visit_id": "icii44dgq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R0C7 & KBO1-R0C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii42d3q",
+      "icii43cqq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii42d3q\\icii42d3q_drz.fits",
+        "visit_id": "icii42d3q",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii43cqq\\icii43cqq_drz.fits",
+        "visit_id": "icii43cqq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R0C7 & KBO1-R0C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii42d3q",
+      "icii44d9q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii42d3q\\icii42d3q_drz.fits",
+        "visit_id": "icii42d3q",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii44d9q\\icii44d9q_drz.fits",
+        "visit_id": "icii44d9q",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R0C7 & KBO1-R0C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii42d3q",
+      "icii44dgq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii42d3q\\icii42d3q_drz.fits",
+        "visit_id": "icii42d3q",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii44dgq\\icii44dgq_drz.fits",
+        "visit_id": "icii44dgq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R0C7 & KBO1-R0C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii43cqq",
+      "icii45i1q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii43cqq\\icii43cqq_drz.fits",
+        "visit_id": "icii43cqq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii45i1q\\icii45i1q_drz.fits",
+        "visit_id": "icii45i1q",
+        "obs_time": "2014-07-08 00:00:00",
+        "target": "KBO1-R0C9",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R0C8 & KBO1-R0C9",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii43cqq",
+      "icii46ieq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii43cqq\\icii43cqq_drz.fits",
+        "visit_id": "icii43cqq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii46ieq\\icii46ieq_drz.fits",
+        "visit_id": "icii46ieq",
+        "obs_time": "2014-07-08 00:00:00",
+        "target": "KBO1-R0C9",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R0C8 & KBO1-R0C9",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii44d9q",
+      "icii45i1q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii44d9q\\icii44d9q_drz.fits",
+        "visit_id": "icii44d9q",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii45i1q\\icii45i1q_drz.fits",
+        "visit_id": "icii45i1q",
+        "obs_time": "2014-07-08 00:00:00",
+        "target": "KBO1-R0C9",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R0C8 & KBO1-R0C9",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii44d9q",
+      "icii46ieq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii44d9q\\icii44d9q_drz.fits",
+        "visit_id": "icii44d9q",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii46ieq\\icii46ieq_drz.fits",
+        "visit_id": "icii46ieq",
+        "obs_time": "2014-07-08 00:00:00",
+        "target": "KBO1-R0C9",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R0C8 & KBO1-R0C9",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii44dgq",
+      "icii45i1q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii44dgq\\icii44dgq_drz.fits",
+        "visit_id": "icii44dgq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii45i1q\\icii45i1q_drz.fits",
+        "visit_id": "icii45i1q",
+        "obs_time": "2014-07-08 00:00:00",
+        "target": "KBO1-R0C9",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R0C8 & KBO1-R0C9",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii44dgq",
+      "icii46ieq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii44dgq\\icii44dgq_drz.fits",
+        "visit_id": "icii44dgq",
+        "obs_time": "2014-07-07 00:00:00",
+        "target": "KBO1-R0C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii46ieq\\icii46ieq_drz.fits",
+        "visit_id": "icii46ieq",
+        "obs_time": "2014-07-08 00:00:00",
+        "target": "KBO1-R0C9",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R0C8 & KBO1-R0C9",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii61pkq",
+      "icii59roq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii61pkq\\icii61pkq_drz.fits",
+        "visit_id": "icii61pkq",
+        "obs_time": "2014-07-09 00:00:00",
+        "target": "KBO1-R2C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii59roq\\icii59roq_drz.fits",
+        "visit_id": "icii59roq",
+        "obs_time": "2014-07-10 00:00:00",
+        "target": "KBO1-R2C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R2C8 & KBO1-R2C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii61pkq",
+      "icii60s5q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii61pkq\\icii61pkq_drz.fits",
+        "visit_id": "icii61pkq",
+        "obs_time": "2014-07-09 00:00:00",
+        "target": "KBO1-R2C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii60s5q\\icii60s5q_drz.fits",
+        "visit_id": "icii60s5q",
+        "obs_time": "2014-07-10 00:00:00",
+        "target": "KBO1-R2C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R2C8 & KBO1-R2C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii61pkq",
+      "icii63rxq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii61pkq\\icii61pkq_drz.fits",
+        "visit_id": "icii61pkq",
+        "obs_time": "2014-07-09 00:00:00",
+        "target": "KBO1-R2C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii63rxq\\icii63rxq_drz.fits",
+        "visit_id": "icii63rxq",
+        "obs_time": "2014-07-10 00:00:00",
+        "target": "KBO1-R2C9",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R2C8 & KBO1-R2C9",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii61pkq",
+      "icii64seq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii61pkq\\icii61pkq_drz.fits",
+        "visit_id": "icii61pkq",
+        "obs_time": "2014-07-09 00:00:00",
+        "target": "KBO1-R2C8",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii64seq\\icii64seq_drz.fits",
+        "visit_id": "icii64seq",
+        "obs_time": "2014-07-10 00:00:00",
+        "target": "KBO1-R2C9",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R2C8 & KBO1-R2C9",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii59roq",
+      "icii58feq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii59roq\\icii59roq_drz.fits",
+        "visit_id": "icii59roq",
+        "obs_time": "2014-07-10 00:00:00",
+        "target": "KBO1-R2C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii58feq\\icii58feq_drz.fits",
+        "visit_id": "icii58feq",
+        "obs_time": "2014-07-12 00:00:00",
+        "target": "KBO1-R2C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 48.0,
+    "target": "KBO1-R2C7 & KBO1-R2C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii60s5q",
+      "icii58feq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii60s5q\\icii60s5q_drz.fits",
+        "visit_id": "icii60s5q",
+        "obs_time": "2014-07-10 00:00:00",
+        "target": "KBO1-R2C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii58feq\\icii58feq_drz.fits",
+        "visit_id": "icii58feq",
+        "obs_time": "2014-07-12 00:00:00",
+        "target": "KBO1-R2C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 48.0,
+    "target": "KBO1-R2C7 & KBO1-R2C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii56f2q",
+      "icii58feq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii56f2q\\icii56f2q_drz.fits",
+        "visit_id": "icii56f2q",
+        "obs_time": "2014-07-12 00:00:00",
+        "target": "KBO1-R2C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii58feq\\icii58feq_drz.fits",
+        "visit_id": "icii58feq",
+        "obs_time": "2014-07-12 00:00:00",
+        "target": "KBO1-R2C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R2C5 & KBO1-R2C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii56f9q",
+      "icii58feq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii56f9q\\icii56f9q_drz.fits",
+        "visit_id": "icii56f9q",
+        "obs_time": "2014-07-12 00:00:00",
+        "target": "KBO1-R2C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii58feq\\icii58feq_drz.fits",
+        "visit_id": "icii58feq",
+        "obs_time": "2014-07-12 00:00:00",
+        "target": "KBO1-R2C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R2C5 & KBO1-R2C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii75aqq",
+      "icii77bcq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii75aqq\\icii75aqq_drz.fits",
+        "visit_id": "icii75aqq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii77bcq\\icii77bcq_drz.fits",
+        "visit_id": "icii77bcq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C4 & KBO1-R4C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii75aqq",
+      "icii78ckq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii75aqq\\icii75aqq_drz.fits",
+        "visit_id": "icii75aqq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii78ckq\\icii78ckq_drz.fits",
+        "visit_id": "icii78ckq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C4 & KBO1-R4C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii76bmq",
+      "icii77bcq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii76bmq\\icii76bmq_drz.fits",
+        "visit_id": "icii76bmq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii77bcq\\icii77bcq_drz.fits",
+        "visit_id": "icii77bcq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C4 & KBO1-R4C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii76bmq",
+      "icii78ckq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii76bmq\\icii76bmq_drz.fits",
+        "visit_id": "icii76bmq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii78ckq\\icii78ckq_drz.fits",
+        "visit_id": "icii78ckq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C4 & KBO1-R4C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii77bcq",
+      "icii80e6q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii77bcq\\icii77bcq_drz.fits",
+        "visit_id": "icii77bcq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii80e6q\\icii80e6q_drz.fits",
+        "visit_id": "icii80e6q",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C5 & KBO1-R4C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii77bcq",
+      "icii80edq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii77bcq\\icii77bcq_drz.fits",
+        "visit_id": "icii77bcq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii80edq\\icii80edq_drz.fits",
+        "visit_id": "icii80edq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C5 & KBO1-R4C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii78ckq",
+      "icii80e6q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii78ckq\\icii78ckq_drz.fits",
+        "visit_id": "icii78ckq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii80e6q\\icii80e6q_drz.fits",
+        "visit_id": "icii80e6q",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C5 & KBO1-R4C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii78ckq",
+      "icii80edq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii78ckq\\icii78ckq_drz.fits",
+        "visit_id": "icii78ckq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii80edq\\icii80edq_drz.fits",
+        "visit_id": "icii80edq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C5 & KBO1-R4C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii80e6q",
+      "icii81h5q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii80e6q\\icii80e6q_drz.fits",
+        "visit_id": "icii80e6q",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii81h5q\\icii81h5q_drz.fits",
+        "visit_id": "icii81h5q",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R4C6 & KBO1-R4C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii80e6q",
+      "icii82hlq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii80e6q\\icii80e6q_drz.fits",
+        "visit_id": "icii80e6q",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii82hlq\\icii82hlq_drz.fits",
+        "visit_id": "icii82hlq",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R4C6 & KBO1-R4C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii80edq",
+      "icii81h5q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii80edq\\icii80edq_drz.fits",
+        "visit_id": "icii80edq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii81h5q\\icii81h5q_drz.fits",
+        "visit_id": "icii81h5q",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R4C6 & KBO1-R4C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii80edq",
+      "icii82hlq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii80edq\\icii80edq_drz.fits",
+        "visit_id": "icii80edq",
+        "obs_time": "2014-07-14 00:00:00",
+        "target": "KBO1-R4C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii82hlq\\icii82hlq_drz.fits",
+        "visit_id": "icii82hlq",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R4C6 & KBO1-R4C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii81h5q",
+      "icii84hrq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii81h5q\\icii81h5q_drz.fits",
+        "visit_id": "icii81h5q",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii84hrq\\icii84hrq_drz.fits",
+        "visit_id": "icii84hrq",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C7 & KBO1-R4C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii81h5q",
+      "icii84hys"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii81h5q\\icii81h5q_drz.fits",
+        "visit_id": "icii81h5q",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii84hys\\icii84hys_drz.fits",
+        "visit_id": "icii84hys",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C7 & KBO1-R4C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii82hlq",
+      "icii84hrq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii82hlq\\icii82hlq_drz.fits",
+        "visit_id": "icii82hlq",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii84hrq\\icii84hrq_drz.fits",
+        "visit_id": "icii84hrq",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C7 & KBO1-R4C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii82hlq",
+      "icii84hys"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii82hlq\\icii82hlq_drz.fits",
+        "visit_id": "icii82hlq",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii84hys\\icii84hys_drz.fits",
+        "visit_id": "icii84hys",
+        "obs_time": "2014-07-15 00:00:00",
+        "target": "KBO1-R4C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R4C7 & KBO1-R4C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii65q5q",
+      "icii68qyq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii65q5q\\icii65q5q_drz.fits",
+        "visit_id": "icii65q5q",
+        "obs_time": "2014-07-16 00:00:00",
+        "target": "KBO1-R3C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii68qyq\\icii68qyq_drz.fits",
+        "visit_id": "icii68qyq",
+        "obs_time": "2014-07-16 00:00:00",
+        "target": "KBO1-R3C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R3C5 & KBO1-R3C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii66qlq",
+      "icii68qyq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii66qlq\\icii66qlq_drz.fits",
+        "visit_id": "icii66qlq",
+        "obs_time": "2014-07-16 00:00:00",
+        "target": "KBO1-R3C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii68qyq\\icii68qyq_drz.fits",
+        "visit_id": "icii68qyq",
+        "obs_time": "2014-07-16 00:00:00",
+        "target": "KBO1-R3C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R3C5 & KBO1-R3C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii68qyq",
+      "icii70uzq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii68qyq\\icii68qyq_drz.fits",
+        "visit_id": "icii68qyq",
+        "obs_time": "2014-07-16 00:00:00",
+        "target": "KBO1-R3C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii70uzq\\icii70uzq_drz.fits",
+        "visit_id": "icii70uzq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R3C6 & KBO1-R3C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii70uzq",
+      "icii71suq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii70uzq\\icii70uzq_drz.fits",
+        "visit_id": "icii70uzq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii71suq\\icii71suq_drz.fits",
+        "visit_id": "icii71suq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R3C7 & KBO1-R3C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii70uzq",
+      "icii72tbq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii70uzq\\icii70uzq_drz.fits",
+        "visit_id": "icii70uzq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii72tbq\\icii72tbq_drz.fits",
+        "visit_id": "icii72tbq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R3C7 & KBO1-R3C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii70uzq",
+      "icii72tiq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii70uzq\\icii70uzq_drz.fits",
+        "visit_id": "icii70uzq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii72tiq\\icii72tiq_drz.fits",
+        "visit_id": "icii72tiq",
+        "obs_time": "2014-07-17 00:00:00",
+        "target": "KBO1-R3C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R3C7 & KBO1-R3C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii47xtq",
+      "icii49c3q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii47xtq\\icii47xtq_drz.fits",
+        "visit_id": "icii47xtq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii49c3q\\icii49c3q_drz.fits",
+        "visit_id": "icii49c3q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R1C6 & KBO1-R1C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii47xtq",
+      "icii50cjq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii47xtq\\icii47xtq_drz.fits",
+        "visit_id": "icii47xtq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii50cjq\\icii50cjq_drz.fits",
+        "visit_id": "icii50cjq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R1C6 & KBO1-R1C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii48yaq",
+      "icii49c3q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii48yaq\\icii48yaq_drz.fits",
+        "visit_id": "icii48yaq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii49c3q\\icii49c3q_drz.fits",
+        "visit_id": "icii49c3q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R1C6 & KBO1-R1C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii48yaq",
+      "icii50cjq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii48yaq\\icii48yaq_drz.fits",
+        "visit_id": "icii48yaq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii50cjq\\icii50cjq_drz.fits",
+        "visit_id": "icii50cjq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R1C6 & KBO1-R1C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii48yhq",
+      "icii49c3q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii48yhq\\icii48yhq_drz.fits",
+        "visit_id": "icii48yhq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii49c3q\\icii49c3q_drz.fits",
+        "visit_id": "icii49c3q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R1C6 & KBO1-R1C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii48yhq",
+      "icii50cjq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii48yhq\\icii48yhq_drz.fits",
+        "visit_id": "icii48yhq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii50cjq\\icii50cjq_drz.fits",
+        "visit_id": "icii50cjq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R1C6 & KBO1-R1C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii53xlq",
+      "icii51c8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii53xlq\\icii53xlq_drz.fits",
+        "visit_id": "icii53xlq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C9",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii51c8q\\icii51c8q_drz.fits",
+        "visit_id": "icii51c8q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R1C9 & KBO1-R1C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii53xlq",
+      "icii52cpq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii53xlq\\icii53xlq_drz.fits",
+        "visit_id": "icii53xlq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C9",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii52cpq\\icii52cpq_drz.fits",
+        "visit_id": "icii52cpq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R1C9 & KBO1-R1C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii53xlq",
+      "icii52cwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii53xlq\\icii53xlq_drz.fits",
+        "visit_id": "icii53xlq",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C9",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii52cwq\\icii52cwq_drz.fits",
+        "visit_id": "icii52cwq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R1C9 & KBO1-R1C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii54y4q",
+      "icii51c8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii54y4q\\icii54y4q_drz.fits",
+        "visit_id": "icii54y4q",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C9",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii51c8q\\icii51c8q_drz.fits",
+        "visit_id": "icii51c8q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R1C9 & KBO1-R1C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii54y4q",
+      "icii52cpq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii54y4q\\icii54y4q_drz.fits",
+        "visit_id": "icii54y4q",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C9",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii52cpq\\icii52cpq_drz.fits",
+        "visit_id": "icii52cpq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R1C9 & KBO1-R1C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii54y4q",
+      "icii52cwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii54y4q\\icii54y4q_drz.fits",
+        "visit_id": "icii54y4q",
+        "obs_time": "2014-07-18 00:00:00",
+        "target": "KBO1-R1C9",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii52cwq\\icii52cwq_drz.fits",
+        "visit_id": "icii52cwq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R1C9 & KBO1-R1C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii49c3q",
+      "icii51c8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii49c3q\\icii49c3q_drz.fits",
+        "visit_id": "icii49c3q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii51c8q\\icii51c8q_drz.fits",
+        "visit_id": "icii51c8q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C7 & KBO1-R1C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii49c3q",
+      "icii52cpq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii49c3q\\icii49c3q_drz.fits",
+        "visit_id": "icii49c3q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii52cpq\\icii52cpq_drz.fits",
+        "visit_id": "icii52cpq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C7 & KBO1-R1C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii49c3q",
+      "icii52cwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii49c3q\\icii49c3q_drz.fits",
+        "visit_id": "icii49c3q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii52cwq\\icii52cwq_drz.fits",
+        "visit_id": "icii52cwq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C7 & KBO1-R1C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii50cjq",
+      "icii51c8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii50cjq\\icii50cjq_drz.fits",
+        "visit_id": "icii50cjq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii51c8q\\icii51c8q_drz.fits",
+        "visit_id": "icii51c8q",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C7 & KBO1-R1C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii50cjq",
+      "icii52cpq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii50cjq\\icii50cjq_drz.fits",
+        "visit_id": "icii50cjq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii52cpq\\icii52cpq_drz.fits",
+        "visit_id": "icii52cpq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C7 & KBO1-R1C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii50cjq",
+      "icii52cwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii50cjq\\icii50cjq_drz.fits",
+        "visit_id": "icii50cjq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii52cwq\\icii52cwq_drz.fits",
+        "visit_id": "icii52cwq",
+        "obs_time": "2014-07-19 00:00:00",
+        "target": "KBO1-R1C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R1C7 & KBO1-R1C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii85i8q",
+      "icii87idq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii85i8q\\icii85i8q_drz.fits",
+        "visit_id": "icii85i8q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii87idq\\icii87idq_drz.fits",
+        "visit_id": "icii87idq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C4 & KBO1-R5C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii85i8q",
+      "icii88j1q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii85i8q\\icii85i8q_drz.fits",
+        "visit_id": "icii85i8q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii88j1q\\icii88j1q_drz.fits",
+        "visit_id": "icii88j1q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C4 & KBO1-R5C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii86ioq",
+      "icii87idq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii86ioq\\icii86ioq_drz.fits",
+        "visit_id": "icii86ioq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii87idq\\icii87idq_drz.fits",
+        "visit_id": "icii87idq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C4 & KBO1-R5C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii86ioq",
+      "icii88j1q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii86ioq\\icii86ioq_drz.fits",
+        "visit_id": "icii86ioq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C4",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii88j1q\\icii88j1q_drz.fits",
+        "visit_id": "icii88j1q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C5",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C4 & KBO1-R5C5",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii87idq",
+      "icii89j8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii87idq\\icii87idq_drz.fits",
+        "visit_id": "icii87idq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii89j8q\\icii89j8q_drz.fits",
+        "visit_id": "icii89j8q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C5 & KBO1-R5C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii87idq",
+      "icii90jwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii87idq\\icii87idq_drz.fits",
+        "visit_id": "icii87idq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii90jwq\\icii90jwq_drz.fits",
+        "visit_id": "icii90jwq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C5 & KBO1-R5C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii88j1q",
+      "icii89j8q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii88j1q\\icii88j1q_drz.fits",
+        "visit_id": "icii88j1q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii89j8q\\icii89j8q_drz.fits",
+        "visit_id": "icii89j8q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C5 & KBO1-R5C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii88j1q",
+      "icii90jwq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii88j1q\\icii88j1q_drz.fits",
+        "visit_id": "icii88j1q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C5",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii90jwq\\icii90jwq_drz.fits",
+        "visit_id": "icii90jwq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C6",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C5 & KBO1-R5C6",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii89j8q",
+      "icii91jeq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii89j8q\\icii89j8q_drz.fits",
+        "visit_id": "icii89j8q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii91jeq\\icii91jeq_drz.fits",
+        "visit_id": "icii91jeq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C6 & KBO1-R5C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii89j8q",
+      "icii92k2q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii89j8q\\icii89j8q_drz.fits",
+        "visit_id": "icii89j8q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii92k2q\\icii92k2q_drz.fits",
+        "visit_id": "icii92k2q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C6 & KBO1-R5C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii89j8q",
+      "icii92k9q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii89j8q\\icii89j8q_drz.fits",
+        "visit_id": "icii89j8q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii92k9q\\icii92k9q_drz.fits",
+        "visit_id": "icii92k9q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C6 & KBO1-R5C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii90jwq",
+      "icii91jeq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii90jwq\\icii90jwq_drz.fits",
+        "visit_id": "icii90jwq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii91jeq\\icii91jeq_drz.fits",
+        "visit_id": "icii91jeq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C6 & KBO1-R5C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii90jwq",
+      "icii92k2q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii90jwq\\icii90jwq_drz.fits",
+        "visit_id": "icii90jwq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii92k2q\\icii92k2q_drz.fits",
+        "visit_id": "icii92k2q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C6 & KBO1-R5C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii90jwq",
+      "icii92k9q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii90jwq\\icii90jwq_drz.fits",
+        "visit_id": "icii90jwq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C6",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii92k9q\\icii92k9q_drz.fits",
+        "visit_id": "icii92k9q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 0.0,
+    "target": "KBO1-R5C6 & KBO1-R5C7",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii91jeq",
+      "icii93dlq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii91jeq\\icii91jeq_drz.fits",
+        "visit_id": "icii91jeq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii93dlq\\icii93dlq_drz.fits",
+        "visit_id": "icii93dlq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R5C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R5C7 & KBO1-R5C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii91jeq",
+      "icii94e3q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii91jeq\\icii91jeq_drz.fits",
+        "visit_id": "icii91jeq",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii94e3q\\icii94e3q_drz.fits",
+        "visit_id": "icii94e3q",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R5C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R5C7 & KBO1-R5C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii92k2q",
+      "icii93dlq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii92k2q\\icii92k2q_drz.fits",
+        "visit_id": "icii92k2q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii93dlq\\icii93dlq_drz.fits",
+        "visit_id": "icii93dlq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R5C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R5C7 & KBO1-R5C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii92k2q",
+      "icii94e3q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii92k2q\\icii92k2q_drz.fits",
+        "visit_id": "icii92k2q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii94e3q\\icii94e3q_drz.fits",
+        "visit_id": "icii94e3q",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R5C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R5C7 & KBO1-R5C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii92k9q",
+      "icii93dlq"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii92k9q\\icii92k9q_drz.fits",
+        "visit_id": "icii92k9q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii93dlq\\icii93dlq_drz.fits",
+        "visit_id": "icii93dlq",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R5C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R5C7 & KBO1-R5C8",
+    "pair_type": "adjacent_region"
+  },
+  {
+    "visits": [
+      "icii92k9q",
+      "icii94e3q"
+    ],
+    "images": [
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii92k9q\\icii92k9q_drz.fits",
+        "visit_id": "icii92k9q",
+        "obs_time": "2014-07-20 00:00:00",
+        "target": "KBO1-R5C7",
+        "filter": "F350LP"
+      },
+      {
+        "file_path": "C:\\Users\\aseev\\fits_transit_filter\\data\\icii94e3q\\icii94e3q_drz.fits",
+        "visit_id": "icii94e3q",
+        "obs_time": "2014-07-21 00:00:00",
+        "target": "KBO1-R5C8",
+        "filter": "F350LP"
+      }
+    ],
+    "time_diff_hours": 24.0,
+    "target": "KBO1-R5C7 & KBO1-R5C8",
+    "pair_type": "adjacent_region"
+  }
+]

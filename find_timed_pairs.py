@@ -1,16 +1,13 @@
 import os
 import json
-import numpy as np
+import re
 from datetime import datetime, timedelta
 from astropy.io import fits
-from astropy.coordinates import SkyCoord
-from astropy import units as u
 import glob
 
-def find_image_sets(data_dir, time_min_hours=1, time_max_hours=48, 
-                    position_threshold_arcmin=10):
+def find_image_sets(data_dir, time_min_hours=0, time_max_hours=72):
     """
-    Find sets of FITS images taken at the same sky location between time_min_hours
+    Find sets of HST FITS images taken between time_min_hours
     and time_max_hours apart.
     
     Parameters:
@@ -18,11 +15,9 @@ def find_image_sets(data_dir, time_min_hours=1, time_max_hours=48,
     data_dir : str
         Directory containing FITS files
     time_min_hours : float
-        Minimum time difference in hours
+        Minimum time difference in hours (set to 0 to include same-day observations)
     time_max_hours : float
-        Maximum time difference in hours
-    position_threshold_arcmin : float
-        Maximum separation in arcminutes to consider as the "same" sky location
+        Maximum time difference in hours (increased to 72 for more flexibility)
         
     Returns:
     --------
@@ -32,7 +27,13 @@ def find_image_sets(data_dir, time_min_hours=1, time_max_hours=48,
     # Get all FITS files in the directory
     fits_files = []
     for extension in ['*.fits', '*.fit', '*.fts']:
-        fits_files.extend(glob.glob(os.path.join(data_dir, '**', extension), recursive=True))
+        pattern = os.path.join(data_dir, '**', extension)
+        print(f"Searching for pattern: {pattern}")
+        files = glob.glob(pattern, recursive=True)
+        fits_files.extend(files)
+        print(f"Found {len(files)} files with extension {extension}")
+    
+    print(f"Found a total of {len(fits_files)} FITS files")
     
     if not fits_files:
         print("No FITS files found in directory.")
@@ -40,145 +41,239 @@ def find_image_sets(data_dir, time_min_hours=1, time_max_hours=48,
     
     # Extract metadata from each file
     image_data = []
+    
+    # Regular expression for HST file naming pattern (e.g., icii01drq)
+    hst_pattern = re.compile(r'(ic[a-z]{2}\d{2}[a-z0-9]{3})')
+    
     for file_path in fits_files:
         try:
+            # Extract HST visit ID from filename
+            visit_id = None
+            hst_match = hst_pattern.search(os.path.basename(file_path))
+            if hst_match:
+                visit_id = hst_match.group(1)
+            
             with fits.open(file_path) as hdul:
                 header = hdul[0].header
                 
-                # Extract coordinates (RA and DEC)
-                if 'RA' in header and 'DEC' in header:
-                    ra = header['RA']
-                    dec = header['DEC']
-                elif 'CRVAL1' in header and 'CRVAL2' in header:
-                    ra = header['CRVAL1']
-                    dec = header['CRVAL2']
-                else:
-                    print(f"Warning: Could not find coordinates in {file_path}")
-                    continue
+                # Try different date keywords used in HST data
+                obs_time = None
+                date_keywords = ['DATE-OBS', 'EXPSTART', 'DATE', 'EXPEND', 'DATE-BEG']
                 
-                # Extract observation time
-                if 'DATE-OBS' in header:
-                    date_obs = header['DATE-OBS']
-                    # Handle different date formats
-                    try:
-                        if 'T' in date_obs:
-                            obs_time = datetime.strptime(date_obs, '%Y-%m-%dT%H:%M:%S.%f')
-                        else:
-                            obs_time = datetime.strptime(date_obs, '%Y-%m-%d %H:%M:%S.%f')
-                    except ValueError:
+                for keyword in date_keywords:
+                    if keyword in header:
                         try:
-                            if 'T' in date_obs:
-                                obs_time = datetime.strptime(date_obs, '%Y-%m-%dT%H:%M:%S')
-                            else:
-                                obs_time = datetime.strptime(date_obs, '%Y-%m-%d %H:%M:%S')
-                        except ValueError:
-                            print(f"Warning: Could not parse observation time in {file_path}")
-                            continue
-                else:
-                    print(f"Warning: No observation time found in {file_path}")
-                    continue
+                            date_value = header[keyword]
+                            
+                            # Convert MJD format to datetime if necessary
+                            if isinstance(date_value, (float, int)) and 40000 < date_value < 70000:
+                                # Likely Modified Julian Date
+                                mjd_zero = datetime(1858, 11, 17)
+                                obs_time = mjd_zero + timedelta(days=date_value)
+                                break
+                            
+                            # Try various date formats
+                            date_formats = [
+                                '%Y-%m-%dT%H:%M:%S.%f', 
+                                '%Y-%m-%d %H:%M:%S.%f',
+                                '%Y-%m-%dT%H:%M:%S', 
+                                '%Y-%m-%d %H:%M:%S',
+                                '%Y-%m-%d'
+                            ]
+                            
+                            for date_format in date_formats:
+                                try:
+                                    obs_time = datetime.strptime(date_value, date_format)
+                                    break
+                                except (ValueError, TypeError):
+                                    continue
+                            
+                            if obs_time:
+                                break
+                                
+                        except Exception as e:
+                            pass  # Silently try the next keyword
                 
-                # Extract image quality metrics if available
-                dead_pixels = header.get('DEADPIX', None)
-                seeing = header.get('SEEING', None)
+                if obs_time is None:
+                    # As a last resort, try to infer date from filename or directory structure
+                    file_mtime = os.path.getmtime(file_path)
+                    obs_time = datetime.fromtimestamp(file_mtime)
+                
+                # Extract target information
+                target = header.get('TARGNAME', None)
+                if not target:
+                    target = header.get('OBJECT', None)
+                
+                # Extract program information
+                program_id = header.get('PROPOSID', None)
+                
+                # Extract filter information
+                filter_name = header.get('FILTER', None)
+                if not filter_name:
+                    filter_name = header.get('FILTER1', None)
                 
                 image_data.append({
                     'file_path': file_path,
-                    'ra': float(ra),
-                    'dec': float(dec),
+                    'visit_id': visit_id,  # HST visit ID
                     'obs_time': obs_time,
-                    'dead_pixels': dead_pixels,
-                    'seeing': seeing
+                    'target': target,
+                    'program_id': program_id,
+                    'filter': filter_name
                 })
                 
         except Exception as e:
             print(f"Error processing {file_path}: {e}")
     
-    # Group images by pointing
-    pointing_groups = {}
+    print(f"Successfully extracted metadata from {len(image_data)} of {len(fits_files)} files")
     
-    for i, img1 in enumerate(image_data):
-        coord1 = SkyCoord(ra=img1['ra']*u.degree, dec=img1['dec']*u.degree)
-        
-        for j, img2 in enumerate(image_data[i+1:], i+1):
-            coord2 = SkyCoord(ra=img2['ra']*u.degree, dec=img2['dec']*u.degree)
-            
-            # Calculate angular separation
-            sep = coord1.separation(coord2).arcmin
-            
-            if sep <= position_threshold_arcmin:
-                # Images are at the same location
-                pointing_key = f"{img1['ra']:.3f}_{img1['dec']:.3f}"
-                
-                if pointing_key not in pointing_groups:
-                    pointing_groups[pointing_key] = []
-                
-                # Add img1 if it's not already in the group
-                if not any(img['file_path'] == img1['file_path'] for img in pointing_groups[pointing_key]):
-                    pointing_groups[pointing_key].append(img1)
-                
-                # Add img2 if it's not already in the group
-                if not any(img['file_path'] == img2['file_path'] for img in pointing_groups[pointing_key]):
-                    pointing_groups[pointing_key].append(img2)
+    # Filter out entries with no observation time
+    valid_images = [img for img in image_data if img['obs_time'] is not None]
+    print(f"Files with valid observation times: {len(valid_images)}")
     
-    # Find sets of images within the time window
+    if len(valid_images) == 0:
+        print("No files with valid observation times found.")
+        return []
+    
+    # Print timeline of observations
+    valid_images.sort(key=lambda x: x['obs_time'])
+    print("Observation Timeline:")
+    prev_date = None
+    for i, img in enumerate(valid_images, 1):
+        current_date = img['obs_time'].date()
+        days_diff = f"({(current_date - prev_date).days} days since previous)" if prev_date else ""
+        print(f"{i}: {current_date} - Visit {img['visit_id']} {days_diff}")
+        prev_date = current_date
+        if i == 20 and len(valid_images) > 20:
+            print(f"... and {len(valid_images) - 20} more observations")
+            break
+    
+    # Group images in two ways:
+    # 1. By exact target
+    target_groups = {}
+    for img in valid_images:
+        if img['target']:
+            if img['target'] not in target_groups:
+                target_groups[img['target']] = []
+            target_groups[img['target']].append(img)
+    
+    # 2. By target region (extract row and column from target name)
+    region_pattern = re.compile(r'KBO\d+\-R(\d+)C(\d+)')
+    region_groups = {}
+    
+    for img in valid_images:
+        if img['target']:
+            match = region_pattern.match(img['target'])
+            if match:
+                row, col = match.groups()
+                # Group by row only, allowing adjacent columns
+                region_key = f"R{row}"
+                if region_key not in region_groups:
+                    region_groups[region_key] = []
+                region_groups[region_key].append(img)
+    
+    print(f"Found {len(target_groups)} unique targets and {len(region_groups)} unique regions")
+    
+    # Look for image pairs within the time window
+    print("\nLooking for image pairs by exact target...")
+    
+    time_window_pairs = []
+    
+    # Find pairs within each target group
+    for target, target_images in target_groups.items():
+        if len(target_images) > 1:
+            print(f"Processing target: {target} with {len(target_images)} images")
+            
+            # Sort by observation time
+            target_images.sort(key=lambda x: x['obs_time'])
+            
+            for i, img1 in enumerate(target_images):
+                for j, img2 in enumerate(target_images[i+1:], i+1):
+                    # Calculate time difference in hours
+                    time_diff = (img2['obs_time'] - img1['obs_time']).total_seconds() / 3600.0
+                    
+                    # Check if within time window
+                    if time_min_hours <= time_diff <= time_max_hours:
+                        time_window_pairs.append((img1, img2, time_diff, "exact_target"))
+                        print(f"  Found pair: {img1['visit_id']} and {img2['visit_id']} ({time_diff:.2f} hours apart)")
+    
+    # Now look for pairs by region
+    print("\nLooking for image pairs by region (same row, adjacent columns)...")
+    
+    for region, region_images in region_groups.items():
+        if len(region_images) > 1:
+            print(f"Processing region: {region} with {len(region_images)} images")
+            
+            # Sort by observation time
+            region_images.sort(key=lambda x: x['obs_time'])
+            
+            for i, img1 in enumerate(region_images):
+                for j, img2 in enumerate(region_images[i+1:], i+1):
+                    # Skip if they're the same target
+                    if img1['target'] == img2['target']:
+                        continue
+                    
+                    # Check if they're adjacent columns in the same row
+                    match1 = region_pattern.match(img1['target'])
+                    match2 = region_pattern.match(img2['target'])
+                    
+                    if match1 and match2:
+                        _, col1 = match1.groups()
+                        _, col2 = match2.groups()
+                        
+                        if abs(int(col1) - int(col2)) <= 1:  # Adjacent columns
+                            # Calculate time difference in hours
+                            time_diff = (img2['obs_time'] - img1['obs_time']).total_seconds() / 3600.0
+                            
+                            # Check if within time window
+                            if time_min_hours <= time_diff <= time_max_hours:
+                                time_window_pairs.append((img1, img2, time_diff, "adjacent_region"))
+                                print(f"  Found region pair: {img1['target']} and {img2['target']} ({time_diff:.2f} hours apart)")
+    
+    print(f"\nTotal image pairs within time window ({time_min_hours}-{time_max_hours} hours): {len(time_window_pairs)}")
+    
+    # Create image sets from the pairs
     image_sets = []
     
-    for pointing, images in pointing_groups.items():
-        # Sort images by observation time
-        images.sort(key=lambda x: x['obs_time'])
-        
-        # Check for pairs or groups within time window
-        valid_sets = []
-        
-        for i, img1 in enumerate(images):
-            set_group = [img1]
+    for img1, img2, time_diff, pair_type in time_window_pairs:
+        if not img1['visit_id'] or not img2['visit_id']:
+            print(f"Warning: Skipping pair with missing visit ID: {img1['visit_id']} and {img2['visit_id']}")
+            continue
             
-            for img2 in images[i+1:]:
-                time_diff = (img2['obs_time'] - img1['obs_time']).total_seconds() / 3600.0
-                
-                if time_min_hours <= time_diff <= time_max_hours:
-                    set_group.append(img2)
-            
-            if len(set_group) > 1:
-                valid_sets.append(set_group)
-        
-        # Add valid sets to results
-        for valid_set in valid_sets:
-            image_set = {
-                'pointing': {
-                    'ra': valid_set[0]['ra'],
-                    'dec': valid_set[0]['dec']
+        image_set = {
+            'visits': [img1['visit_id'], img2['visit_id']],
+            'images': [
+                {
+                    'file_path': img1['file_path'],
+                    'visit_id': img1['visit_id'],
+                    'obs_time': img1['obs_time'].strftime('%Y-%m-%d %H:%M:%S'),
+                    'target': img1['target'],
+                    'filter': img1['filter']
                 },
-                'images': [
-                    {
-                        'file_path': img['file_path'],
-                        'obs_time': img['obs_time'].strftime('%Y-%m-%d %H:%M:%S'),
-                        'dead_pixels': img['dead_pixels'],
-                        'seeing': img['seeing']
-                    } for img in valid_set
-                ],
-                'time_span_hours': (valid_set[-1]['obs_time'] - valid_set[0]['obs_time']).total_seconds() / 3600.0
-            }
-            image_sets.append(image_set)
+                {
+                    'file_path': img2['file_path'],
+                    'visit_id': img2['visit_id'],
+                    'obs_time': img2['obs_time'].strftime('%Y-%m-%d %H:%M:%S'),
+                    'target': img2['target'],
+                    'filter': img2['filter']
+                }
+            ],
+            'time_diff_hours': time_diff,
+            'target': f"{img1['target']} & {img2['target']}" if img1['target'] != img2['target'] else img1['target'],
+            'pair_type': pair_type
+        }
+        image_sets.append(image_set)
     
     return image_sets
 
 def main():
-    data_directory = '/data'  # Change this if needed
+    data_directory = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
     output_file = 'kbo_image_sets.json'
     
-    # Find image sets
+    # Find image sets with more flexible time criteria
     print(f"Scanning directory: {data_directory}")
-    image_sets = find_image_sets(data_directory)
+    image_sets = find_image_sets(data_directory, time_min_hours=0, time_max_hours=72)
     
     print(f"Found {len(image_sets)} sets of images suitable for KBO detection")
-    
-    # Convert datetime objects to strings for JSON serialization
-    for image_set in image_sets:
-        for image in image_set['images']:
-            if isinstance(image['obs_time'], datetime):
-                image['obs_time'] = image['obs_time'].strftime('%Y-%m-%d %H:%M:%S')
     
     # Save to JSON
     with open(output_file, 'w') as f:
